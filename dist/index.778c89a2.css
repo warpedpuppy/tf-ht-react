@@ -1,0 +1,36 @@
+.container1 {
+  display: flex;
+  color: black;
+  font-weight: bolder;
+  height: 100vh;
+  padding: auto;
+  align-items: center;
+  justify-content: center;
+}
+
+.header {
+  color: red;
+  justify-content: center;
+  align-items: center;
+  border-color: red;
+}
+
+.container2 {
+  padding: 20px;
+  margin: auto;
+  border-radius: 10px 30px;
+  background-color: #343a40 !important;
+  width: 60%;
+  justify-content: center;
+  align-items: center;
+}
+.maximumW {
+  max-width: 200px;
+  margin: auto;
+  min-width: 175px;
+}
+
+.Horror-Time {
+  color: color;
+}
+/*# sourceMappingURL=index.778c89a2.css.map */
